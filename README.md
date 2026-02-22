@@ -152,20 +152,3 @@ License
 This project is developed for academic and hackathon demonstration purposes.
 
 ---
-
-# Optional Enhancements (If You Want to Impress Judges)
-
-You can add:
-
-- Architecture diagram image
-- 2 screenshots of UI
-- Model performance metrics (Accuracy, AUC, F1)
-- Short 4-line elevator pitch at the top
-
-If you'd like, I can also generate:
-
-- A polished 60-second pitch script  
-- A short LinkedIn-ready project description  
-- A one-page technical summary for judges  
-
-You’re now ready to push and deploy.
